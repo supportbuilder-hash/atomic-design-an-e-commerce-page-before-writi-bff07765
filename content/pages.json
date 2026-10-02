@@ -1,0 +1,46 @@
+{
+  "home": {
+    "variant": "a",
+    "images": {
+      "hero": "https://cdn.stocksnap.io/img-thumbs/960w/OGSC34NCFC.jpg"
+    }
+  },
+  "shop": {
+    "variant": "a",
+    "images": {
+      "products.0": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/2ff6e7015e2e45a18649d57d1b9387cc.jpg",
+      "products.1": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/5a1b3c590a6b42f581f2ec1d07e6c814.jpg",
+      "products.2": "https://cdn.stocksnap.io/img-thumbs/960w/JCEKFWH9O7.jpg",
+      "products.3": "https://cdn.stocksnap.io/img-thumbs/960w/WVKCUPH3RC.jpg",
+      "products.4": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/5f64e4d7f3bc4f63a9d7b5dd0d020ee2.jpg",
+      "products.5": "https://cdn.stocksnap.io/img-thumbs/960w/4JYA4A4D64.jpg",
+      "products.6": "https://cdn.stocksnap.io/img-thumbs/960w/V5NLH4HTN5.jpg",
+      "products.7": "https://cdn.stocksnap.io/img-thumbs/960w/JY0HVUL7V6.jpg"
+    },
+    "slugs": [
+      "aria-everyday-tote",
+      "crestline-wool-sweater",
+      "nomad-ceramic-mug",
+      "halo-desk-lamp",
+      "pacer-running-shoes",
+      "birch-leather-wallet",
+      "solstice-sunglasses",
+      "drift-wireless-earbuds"
+    ]
+  },
+  "product": {
+    "variant": "c"
+  },
+  "cart": {
+    "variant": "a"
+  },
+  "about": {
+    "variant": "b",
+    "images": {
+      "hero": "https://cdn.stocksnap.io/img-thumbs/960w/YVZE65ZWDM.jpg"
+    }
+  },
+  "contact": {
+    "variant": "b"
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "nav": {
+    "home": "Home",
+    "shop": "Shop",
+    "cart": "Cart",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "cta": {
+    "primary": "Shop Now"
+  },
+  "footer": {
+    "tagline": "Premium finds, delivered with delight",
+    "rights": "All rights reserved.",
+    "columns": {
+      "shop": "Shop",
+      "company": "Company"
+    },
+    "links": {
+      "allProducts": "All Products",
+      "cart": "Cart",
+      "about": "About Us",
+      "contact": "Contact"
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "New Season Arrivals",
+      "title": "Shop the Edit You'll Actually Wear",
+      "subtitle": "Thoughtfully designed essentials, delivered fast and backed by easy returns.",
+      "cta": "Shop Now",
+      "secondaryCta": "View Lookbook"
+    },
+    "featured": {
+      "eyebrow": "Bestsellers",
+      "title": "Featured Products",
+      "subtitle": "The pieces our customers keep coming back for."
+    },
+    "perks": {
+      "eyebrow": "Why Shop With Us",
+      "title": "Shopping Made Simple",
+      "subtitle": "Every order comes with the essentials you expect and a few you don't.",
+      "items": {
+        "0": {
+          "title": "Free Shipping",
+          "description": "Free standard shipping on all orders over $50, no code needed."
+        },
+        "1": {
+          "title": "Easy Returns",
+          "description": "Changed your mind? Return any item within 30 days for a full refund."
+        },
+        "2": {
+          "title": "Secure Checkout",
+          "description": "Your payment information is encrypted and never stored on our servers."
+        },
+        "3": {
+          "title": "Fast Dispatch",
+          "description": "Orders placed before 2pm ship the same day from our warehouse."
+        },
+        "4": {
+          "title": "Quality Guarantee",
+          "description": "Every product is checked twice before it leaves our hands."
+        },
+        "5": {
+          "title": "Customer Support",
+          "description": "Real humans ready to help, seven days a week."
+        }
+      }
+    },
+    "testimonials": {
+      "eyebrow": "Customer Love",
+      "title": "What Our Shoppers Say",
+      "subtitle": "Real reviews from real customers.",
+      "items": {
+        "0": {
+          "quote": "The quality blew me away for the price. Shipping was incredibly fast too.",
+          "name": "Hannah Reyes",
+          "role": "Verified Buyer"
+        },
+        "1": {
+          "quote": "I've reordered three times now. Customer service is top notch whenever I have questions.",
+          "name": "Marcus Lee",
+          "role": "Repeat Customer"
+        },
+        "2": {
+          "quote": "Returns were painless when a size didn't fit. Made me trust the brand even more.",
+          "name": "Priya Nair",
+          "role": "Verified Buyer"
+        }
+      }
+    },
+    "cta": {
+      "title": "Ready to Find Your New Favorites?",
+      "subtitle": "Join thousands of happy customers and get 10% off your first order.",
+      "button": "Start Shopping"
+    }
+  },
+  "shop": {
+    "hero": {
+      "eyebrow": "Full Catalog",
+      "title": "Shop the Collection",
+      "subtitle": "Browse every product in our lineup and find exactly what fits your style."
+    },
+    "products": {
+      "0": {
+        "name": "Aria Everyday Tote",
+        "price": "$68.00",
+        "description": "A structured canvas tote built for daily carry, from laptop runs to market trips.",
+        "badge": "Bestseller",
+        "details": {
+          "0": "Water-resistant canvas",
+          "1": "Interior laptop sleeve",
+          "2": "Magnetic snap closure",
+          "3": "Available in 4 colors"
+        }
+      },
+      "1": {
+        "name": "Crestline Wool Sweater",
+        "price": "$89.00",
+        "description": "A midweight merino blend sweater with a ribbed collar for cool-weather layering.",
+        "badge": "",
+        "details": {
+          "0": "70% merino wool blend",
+          "1": "Ribbed cuffs and hem",
+          "2": "Machine washable",
+          "3": "Sizes XS-XXL"
+        }
+      },
+      "2": {
+        "name": "Nomad Ceramic Mug",
+        "price": "$24.00",
+        "description": "Hand-glazed stoneware mug that keeps drinks warm through long mornings.",
+        "badge": "New",
+        "details": {
+          "0": "12oz capacity",
+          "1": "Dishwasher safe",
+          "2": "Matte glaze finish",
+          "3": "Microwave safe"
+        }
+      },
+      "3": {
+        "name": "Halo Desk Lamp",
+        "price": "$54.00",
+        "description": "A dimmable LED desk lamp with a minimalist silhouette for any workspace.",
+        "badge": "",
+        "details": {
+          "0": "3 brightness settings",
+          "1": "USB-C powered",
+          "2": "Adjustable arm",
+          "3": "Energy-efficient LED"
+        }
+      },
+      "4": {
+        "name": "Pacer Running Shoes",
+        "price": "$112.00",
+        "description": "Lightweight trainers engineered for responsive cushioning on every run.",
+        "badge": "",
+        "details": {
+          "0": "Breathable knit upper",
+          "1": "EVA foam midsole",
+          "2": "Rubber traction outsole",
+          "3": "Sizes 6-13"
+        }
+      },
+      "5": {
+        "name": "Birch Leather Wallet",
+        "price": "$45.00",
+        "description": "A slim bifold wallet crafted from full-grain leather that ages beautifully.",
+        "badge": "",
+        "details": {
+          "0": "Full-grain leather",
+          "1": "6 card slots",
+          "2": "RFID blocking liner",
+          "3": "Slim profile design"
+        }
+      },
+      "6": {
+        "name": "Solstice Sunglasses",
+        "price": "$76.00",
+        "description": "Polarized acetate frames with a retro curve for year-round sun protection.",
+        "badge": "Bestseller",
+        "details": {
+          "0": "Polarized lenses",
+          "1": "UV400 protection",
+          "2": "Acetate frame",
+          "3": "Includes hard case"
+        }
+      },
+      "7": {
+        "name": "Drift Wireless Earbuds",
+        "price": "$98.00",
+        "description": "Compact true-wireless earbuds with active noise cancellation and all-day battery.",
+        "badge": "Bestseller",
+        "details": {
+          "0": "Active noise cancellation",
+          "1": "28-hour total battery",
+          "2": "IPX4 sweat resistance",
+          "3": "Touch controls"
+        }
+      }
+    },
+    "viewLabel": "View product"
+  },
+  "product": {
+    "addToCart": "Add to Cart",
+    "added": "Added to cart",
+    "viewCart": "View Cart",
+    "backToShop": "Back to Shop",
+    "detailsTitle": "Product Details",
+    "shippingNote": "Free shipping on orders over $50. Estimated delivery in 3-5 business days.",
+    "notFound": "We couldn't find that product. It may be out of stock or no longer available."
+  },
+  "cart": {
+    "hero": {
+      "eyebrow": "Your Selections",
+      "title": "Shopping Cart",
+      "subtitle": "Review your items, adjust quantities, and get ready for checkout."
+    },
+    "empty": "Your cart is feeling a little light right now — nothing's been added yet.",
+    "emptyCta": "Continue Shopping",
+    "quantity": "Quantity",
+    "remove": "Remove",
+    "subtotal": "Subtotal",
+    "checkout": "Proceed to Checkout",
+    "checkoutNote": "Shipping, taxes, and discount codes are calculated at checkout."
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "Our Story",
+      "title": "Built by Shoppers, for Shoppers",
+      "subtitle": "We started with a simple idea: make great products easy to find, easy to trust, and easy to love."
+    },
+    "story": {
+      "title": "How We Got Here",
+      "paragraphs": {
+        "0": "It began in a small apartment with three laptops, a spreadsheet of favorite products, and a frustration with clunky online shopping. We wanted a store that felt curated rather than cluttered, fast rather than frustrating, and personal rather than transactional.",
+        "1": "Today, that same spreadsheet has grown into a full catalog spanning hundreds of products, but the mission hasn't changed: source thoughtfully, ship quickly, and treat every customer like a neighbor, not a number.",
+        "2": "We're still a small team, but we obsess over the details so your experience feels effortless from browse to doorstep."
+      }
+    },
+    "values": {
+      "eyebrow": "What Drives Us",
+      "title": "Our Values",
+      "subtitle": "Every decision we make is filtered through these four principles.",
+      "items": {
+        "0": {
+          "title": "Quality First",
+          "description": "We test and vet every product before it earns a spot in our catalog."
+        },
+        "1": {
+          "title": "Radical Transparency",
+          "description": "Clear pricing, honest descriptions, and no hidden fees, ever."
+        },
+        "2": {
+          "title": "Fast & Reliable",
+          "description": "Orders ship within 24 hours and arrive when we say they will."
+        },
+        "3": {
+          "title": "Customer Obsessed",
+          "description": "Our support team actually cares, and actually responds."
+        },
+        "4": {
+          "title": "Sustainable Choices",
+          "description": "We prioritize partners and packaging that reduce environmental impact."
+        }
+      }
+    },
+    "stats": {
+      "0": {
+        "value": "150k+",
+        "label": "Happy Customers"
+      },
+      "1": {
+        "value": "4.9/5",
+        "label": "Average Rating"
+      },
+      "2": {
+        "value": "500+",
+        "label": "Curated Products"
+      },
+      "3": {
+        "value": "24hr",
+        "label": "Average Ship Time"
+      }
+    },
+    "cta": {
+      "title": "Ready to Find Your Next Favorite Thing?",
+      "subtitle": "Explore our full catalog and see what everyone is talking about.",
+      "button": "Shop Now"
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Get In Touch",
+      "title": "We're Here to Help",
+      "subtitle": "Questions about an order, a product, or just want to say hello? Reach out and our team will get back to you within one business day."
+    },
+    "form": {
+      "nameLabel": "Full Name",
+      "emailLabel": "Email Address",
+      "messageLabel": "Your Message",
+      "submitLabel": "Send Message",
+      "successMessage": "Thanks for reaching out! We've received your message and will reply within 24 hours.",
+      "details": {
+        "0": {
+          "label": "Email",
+          "value": "support@shopnorthline.com"
+        },
+        "1": {
+          "label": "Phone",
+          "value": "(555) 812-4467"
+        },
+        "2": {
+          "label": "Address",
+          "value": "128 Market Street, Suite 400, Austin, TX 78701"
+        },
+        "3": {
+          "label": "Hours",
+          "value": "Mon–Fri, 9:00 AM – 6:00 PM CST"
+        }
+      }
+    }
+  }
+}

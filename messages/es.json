@@ -1,0 +1,324 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "shop": "Tienda",
+    "cart": "Carrito",
+    "about": "Acerca de",
+    "contact": "Contacto"
+  },
+  "cta": {
+    "primary": "Comprar Ahora"
+  },
+  "footer": {
+    "tagline": "Hallazgos premium, entregados con alegría",
+    "rights": "Todos los derechos reservados.",
+    "columns": {
+      "shop": "Tienda",
+      "company": "Empresa"
+    },
+    "links": {
+      "allProducts": "Todos los Productos",
+      "cart": "Carrito",
+      "about": "Acerca de Nosotros",
+      "contact": "Contacto"
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Nuevas Colecciones",
+      "title": "Compra la Selección que Realmente Usarás",
+      "subtitle": "Esenciales cuidadosamente diseñados, entregados rápido y respaldados por devoluciones fáciles.",
+      "cta": "Comprar Ahora",
+      "secondaryCta": "Ver Lookbook"
+    },
+    "featured": {
+      "eyebrow": "Más Vendidos",
+      "title": "Productos Destacados",
+      "subtitle": "Las piezas a las que nuestros clientes siempre vuelven."
+    },
+    "perks": {
+      "eyebrow": "Por Qué Comprar Con Nosotros",
+      "title": "Compras Simplificadas",
+      "subtitle": "Cada pedido incluye lo esencial que esperas y algunas cosas más.",
+      "items": {
+        "0": {
+          "title": "Envío Gratis",
+          "description": "Envío estándar gratis en todos los pedidos superiores a $50, sin código necesario."
+        },
+        "1": {
+          "title": "Devoluciones Fáciles",
+          "description": "¿Cambió de opinión? Devuelve cualquier artículo dentro de 30 días para un reembolso completo."
+        },
+        "2": {
+          "title": "Pago Seguro",
+          "description": "Tu información de pago está encriptada y nunca se almacena en nuestros servidores."
+        },
+        "3": {
+          "title": "Envío Rápido",
+          "description": "Los pedidos realizados antes de las 2pm se envían el mismo día desde nuestro almacén."
+        },
+        "4": {
+          "title": "Garantía de Calidad",
+          "description": "Cada producto se verifica dos veces antes de salir de nuestras manos."
+        },
+        "5": {
+          "title": "Atención al Cliente",
+          "description": "Personas reales listas para ayudar, siete días a la semana."
+        }
+      }
+    },
+    "testimonials": {
+      "eyebrow": "Amor de Clientes",
+      "title": "Lo Que Dicen Nuestros Compradores",
+      "subtitle": "Reseñas reales de clientes reales.",
+      "items": {
+        "0": {
+          "quote": "La calidad me sorprendió por el precio. El envío también fue increíblemente rápido.",
+          "name": "Hannah Reyes",
+          "role": "Comprador Verificado"
+        },
+        "1": {
+          "quote": "He reordenado tres veces. El servicio al cliente es excelente cuando tengo preguntas.",
+          "name": "Marcus Lee",
+          "role": "Cliente Recurrente"
+        },
+        "2": {
+          "quote": "Las devoluciones fueron sin complicaciones cuando una talla no me quedó. Me hizo confiar aún más en la marca.",
+          "name": "Priya Nair",
+          "role": "Comprador Verificado"
+        }
+      }
+    },
+    "cta": {
+      "title": "¿Listo para Encontrar tus Nuevos Favoritos?",
+      "subtitle": "Únete a miles de clientes felices y obtén 10% de descuento en tu primer pedido.",
+      "button": "Comenzar a Comprar"
+    }
+  },
+  "shop": {
+    "hero": {
+      "eyebrow": "Catálogo Completo",
+      "title": "Explora la Colección",
+      "subtitle": "Navega todos los productos de nuestro catálogo y encuentra exactamente lo que se ajusta a tu estilo."
+    },
+    "products": {
+      "0": {
+        "name": "Bolso Aria Everyday Tote",
+        "price": "$68.00",
+        "description": "Un bolso tote de lona estructurado diseñado para el uso diario, desde viajes con laptop hasta compras en el mercado.",
+        "badge": "Más Vendido",
+        "details": {
+          "0": "Lona resistente al agua",
+          "1": "Compartimento interior para laptop",
+          "2": "Cierre magnético",
+          "3": "Disponible en 4 colores"
+        }
+      },
+      "1": {
+        "name": "Suéter Crestline Wool",
+        "price": "$89.00",
+        "description": "Un suéter de peso medio con mezcla de merino y cuello acanalado para capas en clima frío.",
+        "badge": "",
+        "details": {
+          "0": "Mezcla de 70% lana merino",
+          "1": "Puños y dobladillo acanalados",
+          "2": "Lavable a máquina",
+          "3": "Tallas XS-XXL"
+        }
+      },
+      "2": {
+        "name": "Taza Nomad Ceramic",
+        "price": "$24.00",
+        "description": "Taza de cerámica esmaltada a mano que mantiene las bebidas calientes durante las mañanas largas.",
+        "badge": "Nuevo",
+        "details": {
+          "0": "Capacidad de 12oz",
+          "1": "Apta para lavavajillas",
+          "2": "Acabado de esmalte mate",
+          "3": "Apta para microondas"
+        }
+      },
+      "3": {
+        "name": "Lámpara Halo Desk",
+        "price": "$54.00",
+        "description": "Una lámpara de escritorio LED regulable con un diseño minimalista para cualquier espacio de trabajo.",
+        "badge": "",
+        "details": {
+          "0": "3 niveles de brillo",
+          "1": "Alimentada por USB-C",
+          "2": "Brazo ajustable",
+          "3": "LED de bajo consumo"
+        }
+      },
+      "4": {
+        "name": "Pacer Running Shoes",
+        "price": "$112.00",
+        "description": "Zapatillas ligeras diseñadas con amortiguación receptiva para cada carrera.",
+        "badge": "",
+        "details": {
+          "0": "Parte superior de punto transpirable",
+          "1": "Mediasuela de espuma EVA",
+          "2": "Suela de tracción de goma",
+          "3": "Tallas 6-13"
+        }
+      },
+      "5": {
+        "name": "Birch Leather Wallet",
+        "price": "$45.00",
+        "description": "Una cartera bifold delgada elaborada en cuero de grano completo que envejece hermosamente.",
+        "badge": "",
+        "details": {
+          "0": "Cuero de grano completo",
+          "1": "6 ranuras para tarjetas",
+          "2": "Forro de bloqueo RFID",
+          "3": "Diseño de perfil delgado"
+        }
+      },
+      "6": {
+        "name": "Solstice Sunglasses",
+        "price": "$76.00",
+        "description": "Marcos de acetato polarizados con una curva retro para protección solar durante todo el año.",
+        "badge": "Más vendido",
+        "details": {
+          "0": "Lentes polarizadas",
+          "1": "Protección UV400",
+          "2": "Marco de acetato",
+          "3": "Incluye estuche rígido"
+        }
+      },
+      "7": {
+        "name": "Drift Wireless Earbuds",
+        "price": "$98.00",
+        "description": "Auriculares inalámbricos compactos con cancelación activa de ruido y batería todo el día.",
+        "badge": "Más vendido",
+        "details": {
+          "0": "Cancelación activa de ruido",
+          "1": "Batería total de 28 horas",
+          "2": "Resistencia al sudor IPX4",
+          "3": "Controles táctiles"
+        }
+      }
+    },
+    "viewLabel": "Ver producto"
+  },
+  "product": {
+    "addToCart": "Agregar al carrito",
+    "added": "Agregado al carrito",
+    "viewCart": "Ver carrito",
+    "backToShop": "Volver a la tienda",
+    "detailsTitle": "Detalles del producto",
+    "shippingNote": "Envío gratis en pedidos superiores a $50. Entrega estimada en 3-5 días hábiles.",
+    "notFound": "No pudimos encontrar ese producto. Podría estar agotado o ya no estar disponible."
+  },
+  "cart": {
+    "hero": {
+      "eyebrow": "Tus selecciones",
+      "title": "Carrito de compras",
+      "subtitle": "Revisa tus artículos, ajusta cantidades y prepárate para pagar."
+    },
+    "empty": "Tu carrito se ve un poco vacío en este momento — aún no has agregado nada.",
+    "emptyCta": "Continuar comprando",
+    "quantity": "Cantidad",
+    "remove": "Eliminar",
+    "subtotal": "Subtotal",
+    "checkout": "Proceder al pago",
+    "checkoutNote": "El envío, impuestos y códigos de descuento se calculan al pagar."
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "Nuestra historia",
+      "title": "Hecho por compradores, para compradores",
+      "subtitle": "Comenzamos con una idea simple: hacer que los grandes productos sean fáciles de encontrar, fáciles de confiar y fáciles de amar."
+    },
+    "story": {
+      "title": "Cómo llegamos aquí",
+      "paragraphs": {
+        "0": "Todo comenzó en un pequeño apartamento con tres laptops, una hoja de cálculo de productos favoritos y la frustración con las compras en línea complicadas. Queríamos una tienda que se sintiera curada en lugar de abarrotada, rápida en lugar de frustrante, y personal en lugar de transaccional.",
+        "1": "Hoy, esa misma hoja de cálculo se ha convertido en un catálogo completo con cientos de productos, pero la misión no ha cambiado: seleccionar cuidadosamente, enviar rápidamente y tratar a cada cliente como a un vecino, no como un número.",
+        "2": "Seguimos siendo un equipo pequeño, pero nos obsesionamos con los detalles para que tu experiencia sea sin esfuerzo de principio a fin."
+      }
+    },
+    "values": {
+      "eyebrow": "Qué nos impulsa",
+      "title": "Nuestros valores",
+      "subtitle": "Cada decisión que tomamos se filtra a través de estos cuatro principios.",
+      "items": {
+        "0": {
+          "title": "Calidad primero",
+          "description": "Probamos y verificamos cada producto antes de que merezca un lugar en nuestro catálogo."
+        },
+        "1": {
+          "title": "Transparencia radical",
+          "description": "Precios claros, descripciones honestas y sin cargos ocultos, nunca."
+        },
+        "2": {
+          "title": "Rápido y confiable",
+          "description": "Los pedidos se envían dentro de 24 horas y llegan cuando decimos que lo harán."
+        },
+        "3": {
+          "title": "Obsesionados con el cliente",
+          "description": "Nuestro equipo de soporte realmente se preocupa y realmente responde."
+        },
+        "4": {
+          "title": "Opciones sostenibles",
+          "description": "Priorizamos socios y empaques que reducen el impacto ambiental."
+        }
+      }
+    },
+    "stats": {
+      "0": {
+        "value": "150k+",
+        "label": "Clientes felices"
+      },
+      "1": {
+        "value": "4.9/5",
+        "label": "Calificación Promedio"
+      },
+      "2": {
+        "value": "500+",
+        "label": "Productos Seleccionados"
+      },
+      "3": {
+        "value": "24hr",
+        "label": "Tiempo Promedio de Envío"
+      }
+    },
+    "cta": {
+      "title": "¿Listo para Encontrar Tu Próximo Favorito?",
+      "subtitle": "Explora nuestro catálogo completo y descubre de qué habla todo el mundo.",
+      "button": "Comprar Ahora"
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Ponte en Contacto",
+      "title": "Estamos Aquí para Ayudarte",
+      "subtitle": "¿Preguntas sobre un pedido, un producto, o solo quieres saludar? Contáctanos y nuestro equipo te responderá dentro de un día hábil."
+    },
+    "form": {
+      "nameLabel": "Nombre Completo",
+      "emailLabel": "Correo Electrónico",
+      "messageLabel": "Tu Mensaje",
+      "submitLabel": "Enviar Mensaje",
+      "successMessage": "¡Gracias por comunicarte! Hemos recibido tu mensaje y responderemos dentro de 24 horas.",
+      "details": {
+        "0": {
+          "label": "Correo Electrónico",
+          "value": "support@shopnorthline.com"
+        },
+        "1": {
+          "label": "Teléfono",
+          "value": "(555) 812-4467"
+        },
+        "2": {
+          "label": "Dirección",
+          "value": "128 Market Street, Suite 400, Austin, TX 78701"
+        },
+        "3": {
+          "label": "Horario",
+          "value": "Lun–Vie, 9:00 AM – 6:00 PM CST"
+        }
+      }
+    }
+  }
+}

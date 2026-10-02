@@ -1,0 +1,55 @@
+{
+  "brand": {
+    "name": "Luxora",
+    "tagline": "Premium finds, delivered with delight",
+    "logoUrl": null
+  },
+  "navLinks": [
+    {
+      "key": "home",
+      "href": "/"
+    },
+    {
+      "key": "shop",
+      "href": "/shop"
+    },
+    {
+      "key": "cart",
+      "href": "/cart"
+    },
+    {
+      "key": "about",
+      "href": "/about"
+    },
+    {
+      "key": "contact",
+      "href": "/contact"
+    }
+  ],
+  "primaryCta": {
+    "key": "primary",
+    "href": "/shop"
+  },
+  "footerColumns": [
+    {
+      "key": "shop",
+      "links": [
+        { "key": "allProducts", "href": "/shop" },
+        { "key": "cart", "href": "/cart" }
+      ]
+    },
+    {
+      "key": "company",
+      "links": [
+        { "key": "about", "href": "/about" },
+        { "key": "contact", "href": "/contact" }
+      ]
+    }
+  ],
+  "socialLinks": [],
+  "motion": {
+    "intensity": 5
+  },
+  "navbarVariant": "split",
+  "footerVariant": "columns"
+}
